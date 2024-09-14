@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Lokesh from Chennai, India
 
-### AI-ML and Software Engineering Enthusiast
+### AI-ML and Software Engineering Student
 
 - 🏫 I'm currently a student studying Artificial Intelligence and Data Science at Sri Sairam Engineering College.
 - 💪 I’m passionate about programming and building robust software.
