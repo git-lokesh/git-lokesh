@@ -1,11 +1,8 @@
-<div id="header" align="center">
-  <h1>Hey, I'm Lokesh </h1>
-  <h3>Data Analyst and Software Developer from Chennai, India</h3>
-</div>
-
+# Hey, I'm Lokesh 
+### Data Analyst & Software Developer from Chennai, India
 ---
 
-### 👨‍💻 About Me  
+###  About Me  
 I like working with data, solving problems, and building simple and efficient software.  
 
 -  Data analysis & visualization  
@@ -15,7 +12,7 @@ I like working with data, solving problems, and building simple and efficient so
 
 ---
 
-### 🛠️ My Dev tools and environment
+### My Dev tools and environment
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -50,7 +47,7 @@ I like working with data, solving problems, and building simple and efficient so
 
 ---
 
-### 📈 My GitHub Journey
+### My GitHub Journey
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=git-lokesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lokesh's Stats"/>
@@ -59,7 +56,7 @@ I like working with data, solving problems, and building simple and efficient so
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 
 <p align="center">
 <a href="https://github.com/git-lokesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="git-lokesh" height="30" width="40" /></a>
