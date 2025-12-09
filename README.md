@@ -51,15 +51,18 @@ I like working with data, solving problems, and building simple and efficient so
 ### My GitHub Journey
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=git-lokesh&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="Lokesh's GitHub Stats" />
+  <a href="https://github.com/git-lokesh">
+    <img src="https://img.shields.io/github/followers/git-lokesh?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/git-lokesh?tab=repositories">
+    <img src="https://img.shields.io/github/stars/git-lokesh?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars" />
+  </a>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-lokesh&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Lokesh's Top Languages" />
+  <a href="https://github.com/git-lokesh">
+    <img src="https://img.shields.io/github/commit-activity/m/git-lokesh/git-lokesh?style=for-the-badge" alt="Commit Activity" />
+  </a>
 </p>
 
 
