@@ -51,11 +51,17 @@ I like working with data, solving problems, and building simple and efficient so
 ### My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-lokesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lokesh's Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-lokesh&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Lokesh's Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=git-lokesh&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Lokesh's GitHub Stats" />
 </p>
 
----
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-lokesh&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Lokesh's Top Languages" />
+</p>
+
 
 ### Let's Connect!
 
